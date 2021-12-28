@@ -1,0 +1,19 @@
+{
+  "name": "remark-blockquotes-extended",
+  "version": "1.0.0",
+  "description": "Remarkjs plugin extends blockquote formatting for markdown documents",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["remarkjs", "markdown", "blockquotes", "formatting"],
+  "author": "Jacob Stauffer",
+  "license": "ISC",
+  "dependencies": {
+    "remark": "^14.0.2",
+    "unist-builder": "^3.0.0",
+    "unist-util-visit": "^4.1.0",
+    "vfile-reporter": "^7.0.3"
+  }
+}
