@@ -4,7 +4,7 @@ export const extendedNames = {
     note: /^[nN]$gt;|n>|N>\s/,
     question: /^\?>\s/,
     quote: /^[qQ]&gt;|q>|Q>\s/,
-    succes: /^[sS]&gt;|s>|S>\s/,
+    success: /^[sS]&gt;|s>|S>\s/,
     tip: /^[tTsS]&gt;|t>|T>|s>|S>\s/,
     warning: /^[wW]&gt;|w>|W>\s/,
 }
